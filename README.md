@@ -1,8 +1,8 @@
 ## Olá! Bem vindo ao meu perfil 👋 
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliasanchez25&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliasanchez25&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliasanchez25&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliasanchez25&layout=compact&langs_count=16&theme=dark"/>
 <div>
 
 ## Tecnologias que utilizo 🐱‍💻 
@@ -20,5 +20,6 @@
 ## Onde me encontrar 🚀
 
 <div>
+  <a href="https://www.linkedin.com/in/julia-sanchez-595235218/" target="_blank">
   <img align="center" alt="Julia-Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>
