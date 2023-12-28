@@ -1,25 +1,4 @@
-## Olá! Bem vindo ao meu perfil 👋 
+Developer with almost one year of professional experience. Among the technologies I master, the
+main ones are: TypeScript, React, Next.js, semantic HTML, SASS, and Node.js.
 
-## Tecnologias que utilizo 🐱‍💻 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Julia-HTML" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Julia-CSS" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Julia-JS" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Julia-React" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div>
-  
-## Estou estudando 📚
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Julia-Node" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Julia-TS" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Julia-NG" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-</div>
-
-## Onde me encontrar 🚀
-
-<div>
-  <a href="https://www.linkedin.com/in/julia-sanchez-595235218/" target="_blank">
-  <img align="center" alt="Julia-Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</div>
+I have a degree in Systems Development from ETEC Philadelpho Gouvêa Netto. Currently, I am pursuing a bachelor's degree in Systems Analysis and Development at Fatec Rio Preto.
