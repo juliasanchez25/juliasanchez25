@@ -12,7 +12,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Node.JS](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js)
+![Node.js](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwindcss)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
