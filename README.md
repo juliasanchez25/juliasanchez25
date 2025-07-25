@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About me
 
-- 💼 Working as mid-level front-end developer at Maia Systems.
+- 💼 Working as mid-level front-end developer at Maia Systems
 - 👩‍🎓 Degree in Systems Analysis and Development
 
 ## 🚀 Skills
