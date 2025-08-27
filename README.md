@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=juliasanchez25&color=006bed)
 
 ## 💫 About Me
-💼 Working as mid-level front-end developer at Maia Systems <br>👩‍🎓 Degree in Systems Analysis and Development<br>
+💼 Working as mid-level front-end developer at Snave UK <br>👩‍🎓 Degree in Systems Analysis and Development<br>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/julia-abenza-sanchez/?locale=en_US) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2509juliasanchez@gmail.com) [![GitHub](https://img.shields.io/github/followers/juliasanchez25?label=follow&style=social)](https://github.com/juliasanchez25)
